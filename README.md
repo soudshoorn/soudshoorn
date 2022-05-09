@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 👋 Hi, I’m @soudshoorn
+📫 sennaoudshoorn@gmail.com
 <!--
 **soudshoorn/soudshoorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
